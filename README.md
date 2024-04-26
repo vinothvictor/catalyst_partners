@@ -22,7 +22,7 @@ Usage
     2. Modify the script to specify the folder path where documents will be saved (SAVE_DOCUMENTS_PATH) and the file path to save the JSON file (SAVE_JSON_PATH).
 
     3. Run the script using the following command:
-        python website_one.py
+        python python_script\website_one.py
 
 Functionality
     The script sends a POST request to a specified URL to scrape bid solicitation information.
@@ -56,7 +56,7 @@ Usage
     2. Modify the script to specify the URL of the staff directory (url) and the file path to save the CSV file (SAVE_CSV_PATH).
 
     3. Run the script using the following command:
-        python website_two.py
+        python python_script\website_two.py
 
 Functionality
     The script sends a GET request to the specified URL to retrieve the HTML content of the staff directory.
